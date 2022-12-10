@@ -97,7 +97,7 @@ def cache_labels(self, path=Path('./labels.cache'), prefix=''):
 ```
 ## 四、说明
 
-这个是课堂上的小作业，本人还在学习中，仅供学习用途，直接打开jupter文件运行即可，exp2中为test结果
+这个是课堂上的小作业，仅供学习用途，借鉴了很多人的代码，这里不一一列举了，git后直接打开jupter文件运行即可，exp2中为test结果
 
 ## 五、结果展示
 ![test_batch0_labels](exp2/test_batch0_labels.jpg)
