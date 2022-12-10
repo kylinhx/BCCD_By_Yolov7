@@ -5,7 +5,7 @@
 ```
 Windows10\16G\3060Ti
 python3.7.9
-torch=1.13.0
+torch=1.12.1
 CUDA=11.3.1
 ```
 
@@ -97,3 +97,6 @@ def cache_labels(self, path=Path('./labels.cache'), prefix=''):
 ## 四、说明
 
 这个是课堂上的小作业，本人还在学习中，仅供学习用途
+
+## 五、结果展示
+![test_batch0_labels](exp2/test_batch0_labels.jpg)
